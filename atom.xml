@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/</id>
+    <id>https://Nighty-Nighty.github.io</id>
     <title>𝓝 𝓲 𝓰 𝓱 𝓽 𝔀 𝓪 𝓵 𝓴 𝓮 𝓻</title>
-    <updated>2020-11-26T13:28:03.088Z</updated>
+    <updated>2020-11-26T13:34:01.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/"/>
-    <link rel="self" href="https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Nighty-Nighty.github.io"/>
+    <link rel="self" href="https://Nighty-Nighty.github.io/atom.xml"/>
     <subtitle>誰も知らない</subtitle>
-    <logo>https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/images/avatar.png</logo>
-    <icon>https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/favicon.ico</icon>
+    <logo>https://Nighty-Nighty.github.io/images/avatar.png</logo>
+    <icon>https://Nighty-Nighty.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 𝓝 𝓲 𝓰 𝓱 𝓽 𝔀 𝓪 𝓵 𝓴 𝓮 𝓻</rights>
     <entry>
         <title type="html"><![CDATA[最初的爱情，最后的仪式]]></title>
-        <id>https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/post/zui-chu-de-ai-qing-zui-hou-de-yi-shi/</id>
-        <link href="https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/post/zui-chu-de-ai-qing-zui-hou-de-yi-shi/">
+        <id>https://Nighty-Nighty.github.io/post/zui-chu-de-ai-qing-zui-hou-de-yi-shi/</id>
+        <link href="https://Nighty-Nighty.github.io/post/zui-chu-de-ai-qing-zui-hou-de-yi-shi/">
         </link>
         <updated>2020-11-26T13:03:00.000Z</updated>
         <content type="html"><![CDATA[<p>目前进度3000字左右</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/post/hello-gridea/</id>
-        <link href="https://https://nighty-nighty.github.io/Nightwalkerblog.github.io/post/hello-gridea/">
+        <id>https://Nighty-Nighty.github.io/post/hello-gridea/</id>
+        <link href="https://Nighty-Nighty.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
